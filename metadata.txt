@@ -1,0 +1,9 @@
+[general]
+name=GeoCopy
+description=Plugin para copiar fotos com placas selecionadas
+version=1.0
+qgisMinimumVersion=3.10
+author=Felipe Bertram
+email=felipebertram3014@gmail.com
+about=Seleciona e copia fotos georreferenciadas com placas específicas
+category=Plugins
